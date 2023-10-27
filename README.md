@@ -8,3 +8,5 @@
 
 <p>Projects:</p>
 https://greaterist.github.io/Image-Cropper/
+https://github.com/sashakovsh/ShareBooks
+https://github.com/sashakovsh/ShareBooks-back
